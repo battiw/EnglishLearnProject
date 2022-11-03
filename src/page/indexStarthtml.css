@@ -1,0 +1,106 @@
+body {
+  background-color: rgb(204, 151, 72);
+}
+
+header {
+  height: 450px;
+  width: max-width;
+  background-image: url(Header.jpg);
+  text-align: left;
+  font-size: 50px;
+  color: azure;
+}
+
+#divbutton {
+  height: 70px;
+}
+#cmt {
+  background-color: rgb(161, 120, 56);
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  padding-left: 30 px;
+  margin-top: 10px;
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#input_block {
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+#buttonID {
+  background-color: rgb(161, 120, 56);
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#inputID {
+  height: 30px;
+  font-size: 22px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#outputAll_block {
+  text-align: right;
+  width: 300px;
+  height: 100 px;
+  margin-top: 10px;
+  margin-left: 1050px;
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#createText {
+  font-size: 22px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+/*
+h1,
+h3 {
+  color: rgb(8, 8, 8);
+  text-align: center;
+}
+nav {
+  color: black;
+  text-align: center;
+  /* height: 100px; */
+/* border-width: 2px;
+  border-style: solid;
+  border-color: black; */
+/* margin: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+} */
+/* #input {
+  width: 500px;
+  height: 500px;
+  font-size: 30px; */
+/* border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px; */
+/* margin: 200px;
+}
+#output {
+  width: 500px;
+  height: 500px;
+  font-size: 30px; */
+/* border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px; */
+/* margin: 200px;
+}*/
+footer {
+  background-color: rgb(161, 120, 56);
+  text-align: left;
+  height: 100px;
+}

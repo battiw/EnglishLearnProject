@@ -1,0 +1,25 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "a.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "nodemon": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/express-serve-static-core": "^4.17.26",
+    "@types/node": "^17.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
